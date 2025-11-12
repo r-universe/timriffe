@@ -8,3 +8,6 @@
 [submodule "HMDHFDplus"]
 	path = HMDHFDplus
 	url = https://github.com/timriffe/hmdhfdplus
+[submodule "LEdecomp"]
+	path = LEdecomp
+	url = https://github.com/timriffe/ledecomp
